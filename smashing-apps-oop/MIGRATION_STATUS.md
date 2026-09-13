@@ -2,7 +2,7 @@
 
 **Date**: 2025-01-13  
 **Status**: ✅ **BUILD SUCCESSFUL - Ready for Testing**  
-**Target Repository**: https://github.com/OpaceDigitalAgency/smashingappsv2
+**Target Repository**: https://github.com/InnovatingTech/smashingappsv2
 
 ---
 
@@ -218,7 +218,7 @@ smashing-apps-oop/
 
 2. **Push to GitHub**
    ```bash
-   git remote add origin https://github.com/OpaceDigitalAgency/smashingappsv2.git
+   git remote add origin https://github.com/InnovatingTech/smashingappsv2.git
    git branch -M main
    git push -u origin main
    ```
