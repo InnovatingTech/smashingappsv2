@@ -1,5 +1,4 @@
 import React from 'react';
-import { MapPin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -18,12 +17,8 @@ const Footer: React.FC = () => {
               AI-powered micro-apps to help you smash through tasks with smart, fun, and focused tools.
             </p>
             <p className="mt-4 text-gray-300">
-              ⚡️ Built with brainpower and bad jokes by Opace Ltd
+              ⚡️ Built with brainpower and bad jokes by David Bryan
             </p>
-            <div className="mt-4 flex items-center text-gray-400">
-              <MapPin className="h-4 w-4 mr-2" />
-              <span>Birmingham HQ</span>
-            </div>
           </div>
           
           <div>
@@ -42,14 +37,13 @@ const Footer: React.FC = () => {
               <li><a href="#" className="text-gray-400 hover:text-white">About</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white">Privacy</a></li>
               <li><a href="#" className="text-gray-400 hover:text-white">Terms</a></li>
-              <li><a href="/contact" className="text-gray-400 hover:text-white">Contact</a></li>
             </ul>
           </div>
         </div>
         
         <div className="mt-12 pt-8 border-t border-gray-800">
           <p className="text-center text-gray-400">
-            © {new Date().getFullYear()} SmashingApps.ai • Created by <a href="https://web-site.design" target="_blank" className="text-gray-400 hover:text-white underline">AI Website Design Agency</a>. Built in the UK.
+            © {new Date().getFullYear()} SmashingApps.ai • Created by David Bryan.
           </p>
         </div>
       </div>
