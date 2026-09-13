@@ -89,7 +89,7 @@ const taskSmasherConfig: ToolConfig = {
 
 1. Clone the repository
    ```
-   git clone https://github.com/OpaceDigitalAgency/smashingapps-unified.git
+   git clone https://github.com/InnovatingTech/smashingapps-unified.git
    cd smashingapps-unified
    ```
 
