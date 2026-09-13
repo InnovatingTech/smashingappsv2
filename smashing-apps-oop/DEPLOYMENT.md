@@ -211,7 +211,7 @@ smashing-apps-oop/
 For issues or questions:
 - Check the documentation in the `docs/` folder
 - Review the code comments
-- Contact: Opace Digital Agency
+- Contact: David Bryan via the [InnovatingTech](https://github.com/InnovatingTech) GitHub profile
 
 ## License
 
