@@ -39,12 +39,6 @@ const routes = [
     description: 'Tiny, smart, AI-powered tools to help you smash through tasks effortlessly.'
   },
   { 
-    id: 'contact',
-    title: 'Contact Us',
-    subtitle: 'SmashingApps.ai',
-    description: 'Get in touch with the SmashingApps.ai team. We\'d love to hear from you!'
-  },
-  { 
     id: 'task-smasher',
     title: 'TaskSmasher',
     subtitle: 'Break Tasks into AI Steps',
