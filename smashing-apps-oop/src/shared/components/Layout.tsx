@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Outlet, Link, useLocation } from 'react-router-dom';
-import { MapPin } from 'lucide-react';
 import AICore from '../../../core/AICore';
 
 const Layout: React.FC = () => {
@@ -252,12 +251,8 @@ const Layout: React.FC = () => {
                 AI-powered micro-apps to help you smash through tasks with smart, fun, and focused tools.
               </p>
               <p className="mt-4 text-gray-300">
-                ⚡️ Built with brainpower and bad jokes by Opace Ltd
+                ⚡️ Built with brainpower and bad jokes by David Bryan
               </p>
-              <div className="mt-4 flex items-center text-gray-400">
-                <MapPin className="h-4 w-4 mr-2" />
-                <span>Birmingham HQ</span>
-              </div>
             </div>
 
             <div>
@@ -283,7 +278,7 @@ const Layout: React.FC = () => {
 
           <div className="mt-12 pt-8 border-t border-gray-800">
             <p className="text-center text-gray-400">
-              © {new Date().getFullYear()} SmashingApps.ai • Created by <a href="https://web-site.design" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white underline">AI Website Design Agency</a>. Built in the UK.
+              © {new Date().getFullYear()} SmashingApps.ai • Created by David Bryan.
             </p>
           </div>
         </div>
