@@ -152,7 +152,7 @@ const Navbar: React.FC = () => {
             <a href="#testimonials" className="text-gray-700 hover:text-primary px-3 py-2 rounded-md text-sm font-medium">
               Testimonials
             </a>
-            <a href="/contact" className="btn-primary !py-2 !px-4 text-sm">
+            <a href="/#contact" className="btn-primary !py-2 !px-4 text-sm">
               Get in Touch
             </a>
             <a href="/admin" className="text-gray-700 hover:text-primary px-3 py-2 rounded-md text-sm font-medium">
@@ -272,7 +272,7 @@ const Navbar: React.FC = () => {
           </a>
           <div className="mt-2 pt-2 border-t border-gray-200">
             <a
-              href="/contact"
+              href="/#contact"
               className="block btn-primary !py-2 !px-4 text-center"
               onClick={() => setIsOpen(false)}
             >
