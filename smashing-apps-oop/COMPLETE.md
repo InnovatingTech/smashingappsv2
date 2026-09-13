@@ -132,7 +132,7 @@ git init
 git add .
 git commit -m "Initial commit: SmashingApps v2 with AI-Core"
 git branch -M main
-git remote add origin https://github.com/OpaceDigitalAgency/smashingappsv2.git
+git remote add origin https://github.com/InnovatingTech/smashingappsv2.git
 git push -u origin main
 ```
 
@@ -250,7 +250,7 @@ After deployment:
 
 ## Credits
 
-Built with ❤️ by Opace Digital Agency
+Built with ❤️ by David Bryan
 Inspired by the WordPress AI-Core plugin architecture
 
 ---
