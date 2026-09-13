@@ -1237,7 +1237,7 @@ export class MenuHandlers {
 
   // Help Menu Handlers
   showHelp(): void {
-    window.open('https://github.com/OpaceDigitalAgency/smashingappsv2', '_blank');
+    window.open('https://github.com/InnovatingTech/smashingappsv2', '_blank');
   }
 
   showKeyboardShortcuts(): void {
