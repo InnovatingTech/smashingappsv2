@@ -136,20 +136,6 @@ const routeMeta = {
       operatingSystem: 'Web',
       description: 'Smash complex tasks into smart, manageable lists using our free AI planner. TaskSmasher is an AI task manager tool that creates magic to-do lists for greater productivity.'
     }
-  },
-  '/contact': {
-    title: 'Contact SmashingApps.ai | Free AI Productivity Apps & Tools',
-    description: 'Contact SmashingApps.ai for support, feedback, or collaboration. Reach out to learn more about our free AI productivity tools.',
-    image: `${BASE_URL}/og/contact.png`,
-    canonical: `${BASE_URL}/contact`,
-    urlPath: '/contact',
-    structuredData: {
-      '@context': 'https://schema.org',
-      '@type': 'ContactPage',
-      name: 'Contact SmashingApps.ai',
-      url: `${BASE_URL}/contact`,
-      description: 'Contact SmashingApps.ai for support, feedback, or collaboration. Reach out to learn more about our free AI productivity tools.'
-    }
   }
 };
 
