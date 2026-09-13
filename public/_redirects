@@ -1,5 +1,9 @@
 # Redirects for SmashingApps.ai unified application
 
+# Contact page removed: send its old URLs to the homepage (permanent)
+/contact          /                      301!
+/contact/*        /                      301!
+
 # SPA Redirects - let React Router handle all routing
 /                 /index.html            200
 /tools/*          /index.html            200
