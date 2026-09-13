@@ -1,9 +1,5 @@
 # SmashingApps.ai
 
-> **Current consolidated project:** See [SmashingApps.ai Unified](https://github.com/OpaceDigitalAgency/smashingapps-unified), the version featured in the Opace portfolio.
->
-> **Opace open-source portfolio:** [Browse Opace AI tools, web applications, WordPress plugins and Agent Skills](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
-
 A modern suite of AI-powered productivity tools, hosted at [smashingapps.ai](https://smashingapps.ai).
 
 ## Overview
@@ -304,7 +300,7 @@ To add a new tool to the SmashingApps platform, follow these steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/OpaceDigitalAgency/smashingapps-unified.git
+   git clone https://github.com/InnovatingTech/smashingapps-unified.git
    cd smashingapps-unified
    ```
 
@@ -501,25 +497,4 @@ To change the appearance of specific tools:
 
 ## License
 
-Copyright © 2024 Opace Digital Agency. All rights reserved.
-
----
-
-## About Opace Digital Agency
-
-This project is developed and maintained by **Opace Digital Agency**, a Birmingham-based web design and development agency specializing in modern web solutions.
-
-### Our Services
-
-- **Web Design & Development** - Professional, responsive websites
-- **Next.js & React Development** - Modern web applications
-- **Frontend Development** - Cutting-edge user interfaces
-- **WordPress Development** - Custom themes and plugins
-- **E-commerce Solutions** - Scalable online stores
-
-### Get in Touch
-
-- 🌐 Website: [opace.agency](https://opace.agency)
-- 📧 Services: [Web Design & Development](https://opace.agency/services/web-design)
-- 💼 GitHub: [@OpaceDigitalAgency](https://github.com/OpaceDigitalAgency)
-- 📍 Location: Birmingham, UK
+Copyright © 2024 David Bryan. All rights reserved.
