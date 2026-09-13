@@ -213,20 +213,6 @@ export const routeMeta: MetaConfigMap = {
       operatingSystem: 'Web',
       description: 'Create high-quality articles, blog posts, and SEO content with AI assistance. ArticleSmasher helps you generate well-structured content for various purposes.'
     }
-  },
-  '/contact': {
-    title: 'Contact SmashingApps.ai | Free AI Productivity Apps & Tools',
-    description: 'Contact SmashingApps.ai for support, feedback, or collaboration. Reach out to learn more about our free AI productivity tools.',
-    image: `${BASE_URL}/og/contact.png`,
-    canonical: `${BASE_URL}/contact`,
-    urlPath: '/contact',
-    structuredData: {
-      '@context': 'https://schema.org',
-      '@type': 'ContactPage',
-      name: 'Contact SmashingApps.ai',
-      url: `${BASE_URL}/contact`,
-      description: 'Contact SmashingApps.ai for support, feedback, or collaboration. Reach out to learn more about our free AI productivity tools.'
-    }
   }
 };
 
