@@ -45,7 +45,6 @@ const useCaseDefinitions = seoMaster.useCaseDefinitions;
 const routes = [
   // Main routes
   { path: '/', priority: 1.0, changefreq: 'weekly' },
-  { path: '/contact', priority: 0.7, changefreq: 'monthly' },
   { path: '/tools/task-smasher/', priority: 0.9, changefreq: 'weekly' },
   { path: '/tools/article-smasher/', priority: 0.9, changefreq: 'weekly' },
   
