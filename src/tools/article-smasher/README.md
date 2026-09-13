@@ -159,7 +159,7 @@ Please ensure your code follows our coding standards and includes appropriate te
 
 ## License
 
-Copyright © 2025 Opace Digital Agency. All rights reserved.
+Copyright © 2025 David Bryan. All rights reserved.
 
 ## Support
 
