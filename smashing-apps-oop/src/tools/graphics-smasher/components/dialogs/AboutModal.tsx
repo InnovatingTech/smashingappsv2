@@ -32,7 +32,7 @@ const AboutModal: React.FC<AboutModalProps> = ({ onClose }) => {
 
         <div className="flex justify-center gap-4">
           <a
-            href="https://github.com/OpaceDigitalAgency/smashingappsv2"
+            href="https://github.com/InnovatingTech/smashingappsv2"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded bg-[#3a3a3a] px-4 py-2 text-white hover:bg-[#4a4a4a]"
