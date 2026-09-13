@@ -1,7 +1,7 @@
 # Complete Migration Checklist - SmashingApps v2
 
 **Date Started**: 2025-01-13  
-**Target Repository**: https://github.com/OpaceDigitalAgency/smashingappsv2  
+**Target Repository**: https://github.com/InnovatingTech/smashingappsv2  
 **Goal**: 100% feature parity with original SmashingApps using new AI-Core architecture
 
 ---
@@ -303,7 +303,7 @@ npm install @dnd-kit/core @dnd-kit/sortable @dnd-kit/utilities xlsx jspdf
 
 ### Git Operations
 - [ ] Commit all changes with descriptive message
-- [ ] Push to https://github.com/OpaceDigitalAgency/smashingappsv2
+- [ ] Push to https://github.com/InnovatingTech/smashingappsv2
 - [ ] Verify GitHub repository
 
 ### Netlify Deployment
