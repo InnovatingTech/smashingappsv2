@@ -12,7 +12,6 @@ import Tools from './components/Tools';
 import Features from './components/Features';
 import Testimonials from './components/Testimonials';
 import CTA from './components/CTA';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 // Import tool registry
@@ -158,7 +157,6 @@ function App() {
               )}
               <Routes>
                 <Route path="/" element={<HomePage />} />
-                <Route path="/contact" element={<Contact />} />
                 
                 {/* Tool Routes */}
                 <Route path="/tools/task-smasher" element={<TaskSmasherApp />} />
